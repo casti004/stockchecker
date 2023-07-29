@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freeCodeCamp/boilerplate-project-stockchecker.git"
+    "url": "git+https://github.com/casti004/stockpricechecker.git"
   },
   "keywords": [
     "node",
@@ -29,9 +29,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-stockchecker/issues"
+    "url": "https://github.com/c/boilerplate-project-stockchecker/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-stockchecker#readme",
+  "homepage": "https://casti004/stockpricechecker#readme",
   "main": "assertion-analyser.js",
   "directories": {
     "test": "tests"
